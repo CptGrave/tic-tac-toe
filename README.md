@@ -1,3 +1,3 @@
-# Tic-Tac-Toe game from React tutorial
+# Tic-Tac-Toe game from official React turorial
 
 
